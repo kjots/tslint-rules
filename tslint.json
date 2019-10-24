@@ -11,6 +11,7 @@
       "timeEnd",
       "trace"
     ],
+    "no-default-export": true,
     "no-empty": false,
     "interface-name": false,
     "max-line-length": [
