@@ -23,9 +23,9 @@
     "npm": ">=6.13.4"
   },
   "devDependencies": {
-    "@types/node": "^12.12.7",
+    "@types/node": "^12.12.24",
     "tslint": "^5.20.1",
-    "typescript": "^3.7.2"
+    "typescript": "^3.7.4"
   },
   "peerDependencies": {
     "tslint": "^5.20.1"
