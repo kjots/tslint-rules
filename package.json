@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/kjots/tslint-rules#readme",
   "engines": {
-    "node": ">=12.13.0",
-    "npm": ">=6.12.0"
+    "node": ">=12.14.1",
+    "npm": ">=6.13.4"
   },
   "devDependencies": {
     "@types/node": "^12.12.7",
